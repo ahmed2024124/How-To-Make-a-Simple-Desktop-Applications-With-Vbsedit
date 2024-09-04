@@ -8,3 +8,9 @@ Step 1: Download Vbsedit From The Link : https://www.vbsedit.com/
 
 
 Step 2 : Setup On Your PC & Open, Click On New File
+
+Step 3 : Write Your Code & Click Om Start Debugging Icon On The Top For Start App
+
+Step 4 : Click Skip & Wait For 4 Or 5 Seconds...
+
+Enjoy! For More Information Chat With Me
